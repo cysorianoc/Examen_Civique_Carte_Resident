@@ -28,3 +28,12 @@ Le dépôt est organisé de la manière suivante pour faciliter le déploiement 
 Ce projet est configuré pour être déployé directement depuis GitHub vers Streamlit Community Cloud. 
 
 Pour vous entraîner, il vous suffit de cliquer sur le lien de l'application déployée. Sélectionnez ensuite votre mode de révision dans l'interface et lancez le chronomètre pour démarrer votre test.
+
+
+## Accès à l'application
+
+Vous pouvez tester et utiliser l'application en ligne directement via le lien suivant :
+
+[Simulateur Examen Civique (CR)](https://examenciviquecarteresident.streamlit.app/)
+
+
