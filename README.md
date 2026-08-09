@@ -19,8 +19,8 @@ L'application offre un environnement de test fidèle aux conditions réelles de 
 Le dépôt est organisé de la manière suivante pour faciliter le déploiement sur Streamlit :
 
 * `app.py` : Le fichier principal contenant le code et l'interface de l'application.
-* `questions_connaissance_cr.json` : La base de données regroupant les questions théoriques (histoire, géographie, institutions, valeurs de la République).
-* `questions_situation_cr.json` : La base de données regroupant les questions pratiques et les cas concrets de la vie quotidienne.
+* `questions_connaissance.json` : La base de données regroupant les questions théoriques (histoire, géographie, institutions, valeurs de la République).
+* `questions_situation.json` : La base de données regroupant les questions pratiques et les cas concrets de la vie quotidienne.
 * `requirements.txt` : La liste des dépendances Python nécessaires au bon fonctionnement de l'application.
 
 ## Utilisation et Déploiement
