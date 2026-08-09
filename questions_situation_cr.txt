@@ -1,0 +1,257 @@
+[
+    {
+        "question": "Vous êtes témoin d'un accident grave dans la rue. Que devez-vous faire légalement ?",
+        "options": [
+            "Porter secours en appelant les numéros d'urgence (15, 17, 18 ou 112).",
+            "Ignorer la situation pour ne pas être impliqué.",
+            "Filmer la scène pour informer les autres sur internet.",
+            "Poursuivre vous-même le responsable s'il y en a un."
+        ],
+        "reponse": "Porter secours en appelant les numéros d'urgence (15, 17, 18 ou 112)."
+    },
+    {
+        "question": "Vous êtes victime de violences conjugales ou témoin d'une telle situation. Quel numéro spécifique pouvez-vous appeler ?",
+        "options": ["Le 3919.", "Le 119.", "Le 115.", "Le 3018."],
+        "reponse": "Le 3919."
+    },
+    {
+        "question": "Un enfant de votre entourage semble être victime de maltraitance. Quel numéro faut-il composer ?",
+        "options": ["Le 119 (Enfance maltraitée).", "Le 115 (Hébergement d'urgence).", "Le 196 (Secours en mer).", "Le 3114 (Prévention du suicide)."],
+        "reponse": "Le 119 (Enfance maltraitée)."
+    },
+    {
+        "question": "Votre enfant est victime de harcèlement scolaire sur les réseaux sociaux. Qui peut vous aider ?",
+        "options": ["Appeler le 3018 (Harcèlement scolaire et en ligne).", "Régler le problème par la violence avec les parents de l'autre enfant.", "Lui interdire définitivement d'utiliser un téléphone.", "Attendre que la situation s'arrange d'elle-même."],
+        "reponse": "Appeler le 3018 (Harcèlement scolaire et en ligne)."
+    },
+    {
+        "question": "Vous êtes malade et vous consultez un médecin. Le médecin peut-il révéler votre état de santé à votre employeur sans votre accord ?",
+        "options": ["Non, il est tenu au secret médical (principe de confidentialité).", "Oui, c'est obligatoire pour que l'employeur soit informé.", "Oui, mais seulement si la maladie nécessite un arrêt de travail.", "Oui, l'employeur a un droit d'accès au dossier médical."],
+        "reponse": "Non, il est tenu au secret médical (principe de confidentialité)."
+    },
+    {
+        "question": "Vous allez à la pharmacie pour acheter des médicaments prescrits par votre médecin. Comment faciliter leur remboursement ?",
+        "options": ["En présentant votre carte Vitale.", "En montrant votre carte d'identité.", "En donnant votre contrat de travail.", "Les médicaments ne sont jamais remboursés."],
+        "reponse": "En présentant votre carte Vitale."
+    },
+    {
+        "question": "Vous souhaitez avoir recours à un moyen de contraception. À qui cela est-il accessible ?",
+        "options": ["À toutes les personnes, quel que soit leur âge ou leur situation.", "Uniquement aux personnes majeures.", "Seulement aux femmes mariées.", "Seulement avec l'autorisation d'un juge."],
+        "reponse": "À toutes les personnes, quel que soit leur âge ou leur situation."
+    },
+    {
+        "question": "Vous travaillez comme agent public dans une mairie. Pouvez-vous porter un signe religieux visible au travail ?",
+        "options": ["Non, le principe de laïcité impose la neutralité de l'État et de ses agents.", "Oui, car la liberté d'expression s'applique partout.", "Oui, à condition que le signe soit petit.", "Seulement pendant les fêtes religieuses."],
+        "reponse": "Non, le principe de laïcité impose la neutralité de l'État et de ses agents."
+    },
+    {
+        "question": "Vous vous rendez à la préfecture pour renouveler vos papiers. En tant qu'usager, avez-vous le droit de porter un signe religieux ?",
+        "options": ["Oui, la neutralité s'impose aux agents, pas aux usagers du service public.", "Non, les bâtiments publics sont interdits aux signes religieux.", "Oui, mais seulement si c'est autorisé par le préfet.", "Non, la laïcité l'interdit à tout le monde dans la mairie."],
+        "reponse": "Oui, la neutralité s'impose aux agents, pas aux usagers du service public."
+    },
+    {
+        "question": "Vous êtes parent d'élève. Votre fils ne veut pas assister au cours de sciences ou de sport à l'école pour des raisons religieuses. Est-ce permis ?",
+        "options": ["Non, les enseignements du programme scolaire sont obligatoires.", "Oui, sur simple demande écrite des parents.", "Oui, l'école doit s'adapter aux convictions de chaque élève.", "Oui, à condition de rattraper le cours à la maison."],
+        "reponse": "Non, les enseignements du programme scolaire sont obligatoires."
+    },
+    {
+        "question": "Un collègue vous invite à changer de religion sur votre lieu de travail avec insistance. Que dit la loi ?",
+        "options": ["Le prosélytisme est interdit s'il perturbe le bon fonctionnement ou prend la forme de pressions.", "C'est tout à fait normal et encouragé.", "La loi interdit complètement de parler de religion.", "Il doit d'abord demander l'autorisation au patron."],
+        "reponse": "Le prosélytisme est interdit s'il perturbe le bon fonctionnement ou prend la forme de pressions."
+    },
+    {
+        "question": "Vous voyez un journal qui publie une caricature se moquant d'une religion. Est-ce légal en France ?",
+        "options": ["Oui, le blasphème n'est pas un délit en France, c'est la liberté d'expression.", "Non, c'est formellement interdit et passible de prison.", "Oui, mais uniquement si la caricature concerne des personnalités politiques.", "Non, cela relève de l'incitation à la haine obligatoire."],
+        "reponse": "Oui, le blasphème n'est pas un délit en France, c'est la liberté d'expression."
+    },
+    {
+        "question": "Un employeur vous propose un travail mais refuse de vous déclarer. Que risquez-vous ?",
+        "options": ["C'est un travail au noir, illégal et puni par la loi pour vous et l'employeur.", "Rien, c'est une pratique autorisée pour les nouveaux arrivants.", "Vous gagnez simplement plus d'argent sans payer d'impôts.", "C'est autorisé si vous travaillez moins de 10 heures par semaine."],
+        "reponse": "C'est un travail au noir, illégal et puni par la loi pour vous et l'employeur."
+    },
+    {
+        "question": "Lors d'un entretien d'embauche, le recruteur refuse votre candidature uniquement parce que vous êtes une femme. Que dit la loi ?",
+        "options": ["La loi l'interdit, c'est une discrimination sexiste.", "L'employeur a le droit de choisir qui il veut sans justification.", "C'est légal si le métier est considéré comme physique.", "C'est légal pour les entreprises de moins de 10 salariés."],
+        "reponse": "La loi l'interdit, c'est une discrimination sexiste."
+    },
+    {
+        "question": "Vous êtes salarié et vous souhaitez vous regrouper avec des collègues pour demander de meilleures conditions de travail. Avez-vous le droit ?",
+        "options": ["Oui, le droit syndical et le droit de grève sont garantis par la loi.", "Non, vous risquez un licenciement immédiat.", "Oui, mais il faut demander l'autorisation à la mairie.", "Non, il est interdit de contester les décisions de son patron."],
+        "reponse": "Oui, le droit syndical et le droit de grève sont garantis par la loi."
+    },
+    {
+        "question": "Vous êtes en conflit avec votre employeur concernant des heures supplémentaires non payées. Vers qui vous tourner ?",
+        "options": ["Le conseil de prud'hommes.", "Le tribunal de commerce.", "La Cour de cassation.", "Le maire de votre commune."],
+        "reponse": "Le conseil de prud'hommes."
+    },
+    {
+        "question": "Vous venez de perdre involontairement votre emploi. Que faire pour chercher du travail et être indemnisé ?",
+        "options": ["S'inscrire à France Travail (anciennement Pôle Emploi).", "S'inscrire à la Caisse d'Allocations Familiales (CAF).", "Aller à la mairie demander un travail.", "Écrire directement au ministère du Travail."],
+        "reponse": "S'inscrire à France Travail (anciennement Pôle Emploi)."
+    },
+    {
+        "question": "Vous souhaitez créer votre propre entreprise en France. Quelles sont les démarches principales ?",
+        "options": ["Enregistrer les statuts, immatriculer l'entreprise et la déclarer.", "Demander une autorisation personnelle au Préfet.", "Payer une taxe d'entrée au gouvernement de 5000 euros.", "Avoir obligatoirement la nationalité française depuis 10 ans."],
+        "reponse": "Enregistrer les statuts, immatriculer l'entreprise et la déclarer."
+    },
+    {
+        "question": "Vous signez un bail (contrat de location) pour un appartement. Quelles sont vos obligations ?",
+        "options": ["Payer le loyer et les charges, et entretenir le logement.", "Refaire la peinture et la plomberie tous les ans.", "Inviter le propriétaire à vérifier l'appartement chaque semaine.", "Payer les impôts locaux du propriétaire."],
+        "reponse": "Payer le loyer et les charges, et entretenir le logement."
+    },
+    {
+        "question": "Vous êtes locataire et vous souhaitez faire de gros travaux qui changent la structure du logement (casser un mur).",
+        "options": ["Vous devez demander la permission au propriétaire.", "Vous pouvez le faire librement puisque vous payez un loyer.", "Vous devez avoir l'autorisation de la mairie uniquement.", "Il est totalement interdit de faire des travaux, même décoratifs."],
+        "reponse": "Vous devez demander la permission au propriétaire."
+    },
+    {
+        "question": "Vous avez de faibles revenus et cherchez un logement à loyer modéré. Comment faire ?",
+        "options": ["Déposer un dossier de demande de logement social (HLM) en ligne ou au guichet.", "Acheter un logement directement à la mairie.", "Demander au préfet de réquisitionner un appartement privé.", "Le logement social n'existe pas en France."],
+        "reponse": "Déposer un dossier de demande de logement social (HLM) en ligne ou au guichet."
+    },
+    {
+        "question": "Vous souhaitez fumer une cigarette. Où est-ce formellement interdit en France ?",
+        "options": ["Dans les lieux publics fermés (gares, restaurants, hôpitaux) et les abords des écoles.", "Dans la rue ou dans votre propre voiture.", "À votre domicile si vos fenêtres sont ouvertes.", "Partout, le tabac est totalement interdit en France."],
+        "reponse": "Dans les lieux publics fermés (gares, restaurants, hôpitaux) et les abords des écoles."
+    },
+    {
+        "question": "Vous avez un vieux meuble ou de l'électroménager cassé dont vous voulez vous débarrasser.",
+        "options": ["Vous devez l'apporter à la déchetterie ou dans un centre de recyclage.", "Vous pouvez le laisser sur le trottoir à tout moment.", "Vous pouvez le jeter dans la poubelle noire classique.", "Vous devez le brûler dans votre jardin."],
+        "reponse": "Vous devez l'apporter à la déchetterie ou dans un centre de recyclage."
+    },
+    {
+        "question": "Vous vous promenez avec votre chien en ville. Le chien fait ses besoins sur le trottoir. Que faire ?",
+        "options": ["Ramasser les excréments sous peine de recevoir une amende.", "Laisser la pluie nettoyer le trottoir.", "Pousser les excréments dans le caniveau.", "Ne rien faire car la ville paie des nettoyeurs."],
+        "reponse": "Ramasser les excréments sous peine de recevoir une amende."
+    },
+    {
+        "question": "Vous êtes invité à une fête et vous avez bu de l'alcool. Devez-vous conduire votre voiture pour rentrer ?",
+        "options": ["Non, conduire avec un taux d'alcool supérieur à la limite est un délit sévèrement puni.", "Oui, si vous vous sentez capable de conduire lentement.", "Oui, mais seulement sur les routes de campagne.", "Oui, à condition d'avoir votre permis de conduire sur vous."],
+        "reponse": "Non, conduire avec un taux d'alcool supérieur à la limite est un délit sévèrement puni."
+    },
+    {
+        "question": "Vous roulez en voiture à 110 km/h sur une route limitée à 50 km/h. Que risquez-vous ?",
+        "options": ["C'est un délit passible de prison, d'une lourde amende et d'un retrait de points/permis.", "Une simple amende de 68 euros.", "Un rappel à la loi sans retrait de points.", "Rien, si la route est dégagée et sans danger visible."],
+        "reponse": "C'est un délit passible de prison, d'une lourde amende et d'un retrait de points/permis."
+    },
+    {
+        "question": "Vous souhaitez emprunter un bus ou un métro pour aller au travail.",
+        "options": ["Vous devez payer un titre de transport (ticket ou abonnement).", "Les transports en commun sont gratuits partout en France sans exception.", "Vous pouvez monter sans payer si vous êtes pressé.", "Seuls les citoyens français doivent payer un ticket."],
+        "reponse": "Vous devez payer un titre de transport (ticket ou abonnement)."
+    },
+    {
+        "question": "Vous avez un accident avec votre vélo qui blesse un piéton. Qu'est-ce qui couvre les frais liés aux blessures du piéton ?",
+        "options": ["Votre assurance responsabilité civile.", "Votre assurance maladie (Sécurité sociale).", "Votre assurance habitation exclusivement.", "L'assurance de la personne blessée."],
+        "reponse": "Votre assurance responsabilité civile."
+    },
+    {
+        "question": "Vous venez d'avoir un enfant. Quelles sont vos obligations en termes de déclaration ?",
+        "options": ["Vous devez déclarer sa naissance à la mairie dans les 5 jours.", "Vous devez le déclarer uniquement au médecin.", "Vous n'avez rien à faire, l'hôpital s'occupe de tout.", "Vous avez 1 an pour déclarer l'enfant à la préfecture."],
+        "reponse": "Vous devez déclarer sa naissance à la mairie dans les 5 jours."
+    },
+    {
+        "question": "Vous souhaitez vous marier civilement à la mairie. Est-ce possible si vous êtes un couple de même sexe ?",
+        "options": ["Oui, la loi autorise le mariage pour tous (couples hétérosexuels et homosexuels).", "Non, le mariage est réservé aux couples de sexe différent.", "Oui, mais uniquement si vous avez adopté un enfant avant.", "Non, c'est formellement interdit par la Constitution."],
+        "reponse": "Oui, la loi autorise le mariage pour tous (couples hétérosexuels et homosexuels)."
+    },
+    {
+        "question": "Votre enfant a 3 ans en septembre. Devez-vous l'inscrire à l'école ?",
+        "options": ["Oui, l'instruction est obligatoire dès l'âge de 3 ans.", "Non, l'école n'est obligatoire qu'à partir de 6 ans.", "Non, c'est facultatif jusqu'à son entrée au collège.", "Oui, mais seulement s'il parle parfaitement le français."],
+        "reponse": "Oui, l'instruction est obligatoire dès l'âge de 3 ans."
+    },
+    {
+        "question": "Vous punissez votre enfant en utilisant des violences physiques (châtiments corporels). Que dit la loi ?",
+        "options": ["C'est interdit par la loi, l'autorité parentale s'exerce sans violence.", "C'est autorisé uniquement si l'enfant a commis une faute grave.", "C'est un droit absolu des parents sur leurs enfants.", "C'est autorisé tant que l'enfant a moins de 10 ans."],
+        "reponse": "C'est interdit par la loi, l'autorité parentale s'exerce sans violence."
+    },
+    {
+        "question": "Votre enfant de 14 ans souhaite s'inscrire sur un réseau social. Qu'a prévu la loi récente concernant la majorité numérique ?",
+        "options": ["La majorité numérique est fixée à 15 ans. Avant cet âge, l'accord des parents est nécessaire.", "Il n'y a aucune restriction d'âge sur internet en France.", "Il doit obligatoirement avoir 18 ans pour utiliser internet.", "Il peut s'inscrire librement dès 10 ans sans contrôle."],
+        "reponse": "La majorité numérique est fixée à 15 ans. Avant cet âge, l'accord des parents est nécessaire."
+    },
+    {
+        "question": "Vous êtes convoqué à une réunion de parents d'élèves à l'école de votre enfant. Avez-vous le droit d'y aller ?",
+        "options": ["Oui, les parents ont le droit de rencontrer les professeurs et de s'informer sur la scolarité.", "Non, l'école est un lieu strictement réservé aux enfants et aux professeurs.", "Oui, mais uniquement pour payer les frais d'inscription.", "Non, cela est réservé au maire de la commune."],
+        "reponse": "Oui, les parents ont le droit de rencontrer les professeurs et de s'informer sur la scolarité."
+    },
+    {
+        "question": "Vous recevez un courrier vous indiquant que vous êtes tiré au sort pour être juré d'assises.",
+        "options": ["C'est un devoir civique, vous devez y participer sauf motif grave reconnu par la loi.", "Vous pouvez ignorer la lettre sans conséquence.", "C'est une proposition facultative et payante.", "Vous devez obligatoirement trouver un remplaçant vous-même."],
+        "reponse": "C'est un devoir civique, vous devez y participer sauf motif grave reconnu par la loi."
+    },
+    {
+        "question": "Vous voyez un homme être arrêté dans la rue par la police. De quoi bénéficie-t-il jusqu'à son jugement ?",
+        "options": ["De la présomption d'innocence.", "D'une condamnation immédiate sur place.", "De la perte immédiate de sa nationalité.", "De l'immunité présidentielle."],
+        "reponse": "De la présomption d'innocence."
+    },
+    {
+        "question": "Vous gagnez votre vie en France. Chaque année, vous avez une obligation vis-à-vis de l'État :",
+        "options": ["Déclarer l'intégralité de vos revenus pour payer vos impôts.", "Envoyer votre contrat de travail à la préfecture.", "Donner une part de votre salaire directement au maire.", "Rien, la déclaration des revenus est facultative."],
+        "reponse": "Déclarer l'intégralité de vos revenus pour payer vos impôts."
+    },
+    {
+        "question": "Vous êtes convoqué par la police pour un contrôle d'identité ou une enquête. Comment devez-vous réagir ?",
+        "options": ["Respecter l'autorité des forces de l'ordre et répondre aux sollicitations.", "Fuir ou refuser de coopérer si vous n'avez rien fait de mal.", "Exiger la présence immédiate du Président de la République.", "Proposer de l'argent pour éviter les questions."],
+        "reponse": "Respecter l'autorité des forces de l'ordre et répondre aux sollicitations."
+    },
+    {
+        "question": "Lors d'une manifestation autorisée, certains individus commencent à casser des vitrines. Que risquent-ils ?",
+        "options": ["Des sanctions pénales, car les dégradations et violences sont des délits ou des crimes.", "Rien, car tout est permis pendant une manifestation.", "Un simple rappel à la loi sans amende.", "L'obligation de nettoyer les vitres le lendemain sans procès."],
+        "reponse": "Des sanctions pénales, car les dégradations et violences sont des délits ou des crimes."
+    },
+    {
+        "question": "Vous avez obtenu la nationalité française et vous avez 18 ans. Que pouvez-vous faire lors des prochaines élections municipales ?",
+        "options": ["Voter et même vous porter candidat aux élections.", "Voter uniquement, mais vous ne pouvez pas être élu.", "Rien, il faut attendre 10 ans de nationalité pour voter.", "Vous devez d'abord payer une taxe électorale."],
+        "reponse": "Voter et même vous porter candidat aux élections."
+    },
+    {
+        "question": "Le fils de votre voisin a 16 ans. Quelle démarche obligatoire doit-il accomplir en mairie ?",
+        "options": ["Se faire recenser pour participer à la Journée Défense et Citoyenneté (JDC).", "S'inscrire à un service militaire de 2 ans.", "Passer son permis de conduire obligatoirement.", "Payer ses premiers impôts sur le revenu."],
+        "reponse": "Se faire recenser pour participer à la Journée Défense et Citoyenneté (JDC)."
+    },
+    {
+        "question": "Vous vous inscrivez sur les listes électorales. Comment se déroule le vote le jour des élections en France ?",
+        "options": ["Il est personnel, secret (passage par l'isoloir) et libre.", "Il se fait à main levée devant tout le monde.", "Vous devez obligatoirement montrer votre bulletin de vote au maire.", "Il est payant et réservé aux propriétaires."],
+        "reponse": "Il est personnel, secret (passage par l'isoloir) et libre."
+    },
+    {
+        "question": "C'est le troisième week-end de septembre. De nombreux musées et monuments d'habitude fermés sont ouverts au public gratuitement. De quoi s'agit-il ?",
+        "options": ["Les Journées européennes du patrimoine.", "La Fête de la Musique.", "Le 14 Juillet.", "La Fête du Travail."],
+        "reponse": "Les Journées européennes du patrimoine."
+    },
+    {
+        "question": "Vous participez à une cérémonie du 11 novembre devant le monument aux morts de votre commune. Que commémore-t-on ?",
+        "options": ["L'Armistice de 1918 et on rend hommage à tous les morts pour la France.", "La fin de la Seconde Guerre mondiale en 1945.", "La prise de la Bastille en 1789.", "L'appel du Général de Gaulle en 1940."],
+        "reponse": "L'Armistice de 1918 et on rend hommage à tous les morts pour la France."
+    },
+    {
+        "question": "Vous êtes invité à un repas de fête chez des amis français en mai. Vous recevez un petit bouquet de fleurs blanches avec des clochettes (du muguet). Quelle est la date ?",
+        "options": ["Le 1er mai (Fête du Travail).", "Le 8 mai (Victoire de 1945).", "Le 14 juillet (Fête nationale).", "Le 21 juin (Fête de la musique)."],
+        "reponse": "Le 1er mai (Fête du Travail)."
+    },
+    {
+        "question": "Le 21 juin, vous vous promenez en ville le soir et voyez des musiciens amateurs et professionnels jouer dans les rues. Quel événement est célébré ?",
+        "options": ["La Fête de la musique.", "Le Carnaval de la ville.", "Le Tour de France.", "La journée de l'Europe."],
+        "reponse": "La Fête de la musique."
+    },
+    {
+        "question": "Vous voyagez en voiture vers l'Espagne. Quelle chaîne de montagnes allez-vous traverser à la frontière ?",
+        "options": ["Les Pyrénées.", "Les Alpes.", "Le Massif Central.", "Le Jura."],
+        "reponse": "Les Pyrénées."
+    },
+    {
+        "question": "Vous regardez un grand événement sportif au mois de juillet à la télévision, avec des cyclistes qui traversent la France entière. Qu'est-ce que c'est ?",
+        "options": ["Le Tour de France.", "Les Jeux Olympiques d'hiver.", "Le Marathon de Paris.", "Le Grand Prix de Monaco."],
+        "reponse": "Le Tour de France."
+    },
+    {
+        "question": "En vacances d'été, vous visitez un ancien château royal très célèbre situé près de Paris, construit par Louis XIV, le Roi Soleil. Où êtes-vous ?",
+        "options": ["Au château de Versailles.", "Au Palais des Papes à Avignon.", "À l'abbaye du Mont-Saint-Michel.", "Au musée du Louvre."],
+        "reponse": "Au château de Versailles."
+    },
+    {
+        "question": "Vous êtes étudiant et souhaitez faire valoir un diplôme pour un métier de la santé (infirmier). Quelle valeur fondamentale s'appliquera lors de vos stages à l'hôpital public ?",
+        "options": ["La laïcité et la neutralité, vous ne pourrez pas porter de signe religieux ostentatoire.", "La liberté de porter tous les signes de votre choix sans restriction.", "La liberté d'imposer vos croyances aux patients.", "L'obligation d'avoir une religion pour exercer en milieu hospitalier."],
+        "reponse": "La laïcité et la neutralité, vous ne pourrez pas porter de signe religieux ostentatoire."
+    }
+]
